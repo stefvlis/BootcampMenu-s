@@ -1,4 +1,4 @@
-# BootcampProjects
+# BootcampMenu's
 
 ## What is it?
 In this project we simulate an online food ordering system, in which you can choose from a selection of dishes on a menu. Once the order is complete, the program shows the total amount that has to be paid.
