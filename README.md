@@ -19,5 +19,5 @@ node MenukaartJavascript.js
 .\MenukaartPowershell.ps1
 ```
  ```
-.\Program.cs
+dotnet run Program.cs
 ```
